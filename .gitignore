@@ -33,3 +33,5 @@ models_7.0/yolov5n.pt
 models_7.0/yolov5m.pt
 models_7.0/yolov5l.pt
 models_6.1/yolov5x.pt
+.idea/misc.xml
+.idea/MyOpenCVProjects.iml
